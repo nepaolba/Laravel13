@@ -1,0 +1,17 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #007bff;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #1880e9;
+        }
